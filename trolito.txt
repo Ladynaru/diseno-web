@@ -1,1 +1,14 @@
-hola soy trolito
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Proyecto de la primera generación 2014 del curso de diseño web online">
+
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="Normalize.css">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+
+</body>
+</html>
